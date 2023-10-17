@@ -1,8 +1,13 @@
-# React + Vite
+# FrontEnd PRUEBA TECNICA CLARO DOMINICANA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ESTE PROYECTO ESTA HECHO CON JAVASCRIPT CON EL FRAMEWORK DE VITE Y REACT Y LA LIBRERIA DE ESTILOS TAILWIND A CONTINUACION DETALLES A TOMAR EN CUENTA
+PARA EJECUTAR CORRECTAMENTE EL CODIGO
 
-Currently, two official plugins are available:
+CORRER EN CMD, ESTANDO DENTRO DEL PROYECTO.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- npm install vite@latest
+- npx vite --port=4000
+
+EN CASO DE TENER UN ERROR CON TAILWIND, ESTANDO DENTRO DEL PROYECTO EJECUTAMOS EN EL CMD:
+
+- npm install -D tailwindcss postcss autoprefixer
